@@ -12,13 +12,16 @@ As a multifaceted professional with a passion for blending medicine and software
 
 🌐 Endless Curiosity: I'm constantly learning and expanding my skill set to stay ahead in the ever-evolving world of technology. Follow me to join my journey of continuous improvement and discovery. 📚
 
-## Featured Projects:
+## Featured Projects: (See Pinned Projects for more)
 
-1. Project 1 - Description of the project with technologies used and impact created.
+1. Eclinic Health Management System - A modern web-based EMR system written in go and Svelte/kit.
+    [ECLINIC](https://github.com/abiiranathan/eclinicgo)
 
-2. Project 2 - Description of the project with technologies used and impact created.
+2. HMIS - Generate HMIS 105 medical reports for attendances and diagnoses. Useful for Uganda ministry of health HMIS monthly records.  [HMIS](https://github.com/abiiranathan/hmis)
 
-3. Project 3 - Description of the project with technologies used and impact created.
+3. QtInstaller - Generate Windows Qt Installers. [QtInstaller](https://github.com/abiiranathan/qtinstaller)
+4. C-Language Advanced: Advanced programming and exploration with ready to use libs and data structures in C.
+   [C Language](https://github.com/abiiranathan/c-language)
 
 ## Let's Connect and Innovate Together! 🤝
 
