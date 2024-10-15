@@ -1,30 +1,52 @@
-# Welcome to My GitHub Profile! 🚀
+# 👋 Hi, I'm Dr. Abiira - Where Medicine Meets Code
 
-As a multifaceted professional with a passion for blending medicine and software, I bring a unique perspective to the world of code. 💉💻 With a background as a Doctor (MB ChB MAK) 👨‍⚕️ and expertise in software development (Python, Go, C/C++, Java, WebDev) 👨‍💻, I'm constantly exploring the intersection of healthcare and technology to unlock new possibilities.
+I'm a unique blend of a **Full-Stack Web Developer** and a **Medical Doctor**, bridging the gap between healthcare and technology. My mission is to leverage cutting-edge tech to solve real-world medical challenges and improve patient care.
 
-## What You'll Find Here:
+## 🚀 Quick Facts
 
-👨‍💻 Cutting-Edge Code: I'm always pushing the boundaries of what's possible with my software projects. From sleek web applications to high-performance algorithms, I strive to create innovative solutions that make a real impact. 💡
+- 🩺 Medical Doctor with a passion for digital health
+- 💻 Full-Stack Developer proficient in Go, JavaScript, Python, C, and C++ and Web development.
+- 🌐 Experienced with Django, Node.js, SQL databases, and various backend systems
+- 🔬 Constantly exploring the intersection of medicine and technology
+- 📚 Lifelong learner, always eager to acquire new skills
+- 🤓 Developer of Eclinic HMS (the robust hospital management system)
 
-📚 Open Source Contributions: I believe in the power of collaboration and actively contribute to open source projects. Check out my contributions to see how I'm making a difference in the tech community. 🔗
+## 🛠️ Tech Stack
 
-💡 Intellectual Stimulation: I love engaging in thought-provoking discussions and exploring new ideas. Connect with me to share insights, exchange knowledge, and spark conversations that challenge the status quo. 🤔
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/-Svelte-F02032?style=flat-square&logo=svelte&logoColor=orange)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-🌐 Endless Curiosity: I'm constantly learning and expanding my skill set to stay ahead in the ever-evolving world of technology. Follow me to join my journey of continuous improvement and discovery. 📚
+## 🏥 Medicine + Tech Projects
 
-## Featured Projects: (See Pinned Projects for more)
+Here are some projects that showcase my unique blend of medical knowledge and programming skills:
 
-1. Eclinic Health Management System - A modern web-based EMR system written in go and Svelte/kit.
-    [ECLINIC](https://github.com/abiiranathan/eclinicgo)
+1. **Eclinic HMS** - Eclinic Health Management System
+2. **Epharma** - E-Pharmacy management System
+3. **DocBot** - A bot to answer you medical questions
 
-2. HMIS - Generate HMIS 105 medical reports for attendances and diagnoses. Useful for Uganda ministry of health HMIS monthly records.  [HMIS](https://github.com/abiiranathan/hmis)
+## 🌟 Featured Repositories
 
-3. QtInstaller - Generate Windows Qt Installers. [QtInstaller](https://github.com/abiiranathan/qtinstaller)
-4. C-Language Advanced: Advanced programming and exploration with ready to use libs and data structures in C.
-   [C Language](https://github.com/abiiranathan/c-language)
+[![Eclinic HMS](https://img.shields.io/badge/-Repo%201-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/eclinichms)
+[![C DS &amp; Utilities](https://img.shields.io/badge/-Repo%202-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/solidc)
+[![C Web server](https://img.shields.io/badge/-Repo%203-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/epollix)
+[![go router](https://img.shields.io/badge/-Repo%203-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/gor)
+[![PDF Search Engine](https://img.shields.io/badge/-Repo%203-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/pdfsearch)
 
-## Let's Connect and Innovate Together! 🤝
+## 🤝 Let's Connect!
 
-Feel free to reach out to me via email or social media. Let's collaborate, inspire each other, and make meaningful contributions to the world of code and medicine. Follow me for exciting updates and let's create something extraordinary! 💪
+I'm always interested in collaborating on projects that lie at the intersection of healthcare and technology. If you have any ideas or just want to chat, feel free to reach out!
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abiiranathan&show_icons=true&theme=dark)](https://github.com/abiiranathan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiiranathan/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/abiiranathan)
