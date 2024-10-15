@@ -38,11 +38,12 @@ Here are some projects that showcase my unique blend of medical knowledge and pr
 
 ## 🌟 Featured Repositories
 
-[![Eclinic HMS](https://img.shields.io/badge/-Repo%201-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/eclinichms)
-[![C DS &amp; Utilities](https://img.shields.io/badge/-Repo%202-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/solidc)
-[![C Web server](https://img.shields.io/badge/-Repo%203-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/epollix)
-[![go router](https://img.shields.io/badge/-Repo%203-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/gor)
-[![PDF Search Engine](https://img.shields.io/badge/-Repo%203-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/pdfsearch)
+[![Eclinic HMS](https://img.shields.io/badge/-Eclinic%20HMS-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/eclinichms)
+[![C DS &amp; Utilities](https://img.shields.io/badge/-C%20DS%20&%20Utilities-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/solidc)
+[![C Web server](https://img.shields.io/badge/-C%20Web%20server-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/epollix)
+[![go router](https://img.shields.io/badge/-go%20router-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/gor)
+[![PDF Search Engine](https://img.shields.io/badge/-PDF%20Search%20Engine-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/pdfsearch)
+[![Programming Lectures](https://img.shields.io/badge/-Programming%20Lectures-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/abiiranathan/programming-lectures)
 
 ## 🤝 Let's Connect!
 
